@@ -1,0 +1,5 @@
+ChangePitch: Percentage=27.000000
+ChangeTempo: Percentage=13.000000
+Equalization: FilterLength=4001 CurveName="adore_equal" InterpolateLin=no interpolationMethod=B-spline
+Amplify: Ratio=0.944061
+ExportWav:
